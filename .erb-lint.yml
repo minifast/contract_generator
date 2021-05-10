@@ -1,0 +1,32 @@
+---
+exclude:
+  - '**/node_modules/**/*'
+  - '**/public/**/*'
+  - '**/tmp/**/*'
+  - '**/vendor/bundle/**/*'
+linters:
+  SpaceAroundErbTag:
+    enabled: true
+  RightTrim:
+    enabled: true
+    enforced_style: '-'
+  HardCodedString:
+    exclude:
+      - '**/app/views/**/*'
+  Rubocop:
+    enabled: true
+    rubocop_config:
+      inherit_from:
+        - .rubocop.yml
+      Layout/InitialIndentation:
+        Enabled: false
+      Layout/LineLength:
+        Enabled: false
+      Layout/TrailingEmptyLines:
+        Enabled: false
+      Layout/TrailingWhitespace:
+        Enabled: false
+      Naming/FileName:
+        Enabled: false
+      Style/FrozenStringLiteralComment:
+        Enabled: false

@@ -1,0 +1,123 @@
+---
+- - :permit
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:38:08.323037000 Z
+- - :permit
+  - ISC
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:38:12.277499000 Z
+- - :permit
+  - Apache 2.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:38:21.415670000 Z
+- - :permit
+  - ruby
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:38:56.204711000 Z
+- - :permit
+  - Simplified BSD
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:39:06.539130000 Z
+- - :permit
+  - New BSD
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:39:12.079567000 Z
+- - :permit
+  - CC0-1.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:39:21.521958000 Z
+- - :permit
+  - Mozilla Public License 2.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:39:42.136515000 Z
+- - :permit
+  - BSD-3-Clause
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:40:04.771064000 Z
+- - :permit
+  - CC-BY-4.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:40:09.834292000 Z
+- - :license
+  - atob
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:40:34.276770000 Z
+- - :license
+  - sha.js
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:40:41.872405000 Z
+- - :license
+  - selectize-rails
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:40:49.001161000 Z
+- - :license
+  - path-is-inside
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:40:56.624728000 Z
+- - :license
+  - pako
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:41:15.737216000 Z
+- - :license
+  - node-forge
+  - BSD-3-Clause
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:41:24.831359000 Z
+- - :license
+  - didyoumean
+  - Apache 2.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:41:35.911591000 Z
+- - :permit
+  - WTFPL
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 00:44:52.954471000 Z
+- - :license
+  - type-fest
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-05-10 01:11:23.694605000 Z

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="<%= I18n.locale %>">
+  <head>
+    <title>Contracts</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag 'application', media: 'all', data: { turbo_track: :reload } %>
+    <%= javascript_pack_tag 'application', data: { turbo_track: :reload } %>
+    <%= stylesheet_pack_tag 'application', data: { turbo_track: :reload } %>
+    <%= render partial: 'application/favicon' %>
+  </head>
+
+  <body>
+    <%= render partial: 'application/nav' %>
+    <%= render partial: 'application/header', locals: { controller: controller_name, action: action_name } %>
+    <%= render partial: 'application/flash', locals: { notice: flash[:notice], alert: flash[:alert] } %>
+    <main>
+      <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
+        <%= yield -%>
+      </div>
+    </main>
+  </body>
+</html>

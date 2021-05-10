@@ -1,0 +1,14 @@
+{
+  "extends": ["prettier"],
+  "plugins": ["prettier"],
+  "ignorePatterns": [
+    "**/node_modules/**",
+    "**/vendor/**",
+    "**/public/**",
+    "**/tmp/**"
+  ],
+  "rules": {
+    "prettier/prettier": ["error"]
+  },
+  "parser": "babel-eslint"
+}
